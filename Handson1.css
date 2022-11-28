@@ -1,0 +1,34 @@
+h1,ol{
+    color:red;
+}
+h3{
+    color:red;
+    font-style: italic;
+}
+.a{
+    text-decoration:line-through;
+}
+#a{
+    text-decoration: underline;
+    
+}
+.list1{
+    line-height:40px ;
+
+}
+.list2{
+    font-weight: bold;
+    letter-spacing: 4px;
+    color:crimson
+    
+}
+p{
+    color: brown;
+}
+#b{
+    color: red;
+    background-color:yellow
+}
+.c{
+    background-color:yellow
+}
